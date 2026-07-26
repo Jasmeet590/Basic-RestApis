@@ -1,0 +1,33 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment & Configuration
+.env
+.env.local
+.env.*.local
+
+# PHP Composer
+vendor/
+composer.lock
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.cache
+
+# Node (if using Node for frontend build tools)
+node_modules/
+npm-debug.log

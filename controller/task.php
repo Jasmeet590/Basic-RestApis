@@ -1,5 +1,7 @@
 <?php
 
+set_time_limit(30);
+
 require_once('db.php');
 require_once('../model/Task.php');
 require_once('../model/Response.php');
